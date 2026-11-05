@@ -1,0 +1,10 @@
+# 本地私有草稿：绝不入库（本仓库是 public）
+private/
+*.local.md
+*_draft.md
+.env
+.env.*
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
